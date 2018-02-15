@@ -1,0 +1,12 @@
+{
+	"GCLOUD_PROJECT": "titanium-spider-190907",
+	"DATA_BACKEND": "mongodb",
+	"MONGO_URL": "mongodb://webpush:20180104@220.230.112.62:27017/webpush",
+	"CLOUD_BUCKET": "webpush",
+	"OAUTH2_CLIENT_ID": "327010964386-310u69mr2lpvnv6ovvf3v9q705069b56.apps.googleusercontent.com",
+	"OAUTH2_CLIENT_SECRET": "0i27p7uLcH4IhBTy064gcJ1-",
+	"OAUTH2_CALLBACK": "http://localhost:8080/auth/google/callback",
+	"MEMCACHE_URL": "memcached-14533.c1.asia-northeast1-1.gce.cloud.redislabs.com:14533",
+	"TOPIC_NAME": "my-topic",
+	"SUBSCRIPTION_NAME": "my-subscription"
+}
